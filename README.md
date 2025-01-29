@@ -21,7 +21,7 @@ In this tutorial, I observed various network traffic to and from Azure Virtual M
 
 <h2> Description </h2>
 <p>
-In this lab I created 2 vm's in azure one linux ubuntu vm and the other was windows 10 and was pinging the linux servers ip and inspecting its network traffic.
+In this lab I created 2 vm's in azure one linux ubuntu vm and the other was windows 10 and was pinging the linux servers ip from the windows vm and inspecting its network traffic in WireShark.
 </p>
 <br />
 
